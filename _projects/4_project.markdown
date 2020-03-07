@@ -2,7 +2,7 @@
 layout: page
 title: Bulbs 2
 description: 
-img: /assets/img/fractals_4/1.png
+img: /assets/img/fractals_4/1.jpg
 ---
 
 <div class="img_row">
@@ -31,5 +31,5 @@ img: /assets/img/fractals_4/1.png
 </div>
 
 <div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/fractals_4/10.png" alt="" title="example image"/>
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/fractals_4/10.jpg" alt="" title="example image"/>
 </div>
