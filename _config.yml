@@ -74,6 +74,9 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+  fractals:
+    output: true
+    permalink: /fractals/:path/
   projects:
     output: true
     permalink: /projects/:path/
