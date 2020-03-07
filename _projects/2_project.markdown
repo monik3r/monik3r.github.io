@@ -2,7 +2,7 @@
 layout: page
 title: Chaos 2
 description: 
-img: /assets/img/fractals_1/1.png
+img: /assets/img/fractals_2/1.png
 ---
 
 <div class="img_row">
